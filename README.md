@@ -1,52 +1,92 @@
-# 💻 Luciano Campos Kriegl
+# Welcome, I'm Luciano Campos Kriegl 👋
 
-**Fullstack Web Developer | PHP · Laravel · Vue · JS · MySQL · APIs | Argentina 🇦🇷**
+## About Me
 
-Hola! Soy Luciano, un apasionado desarrollador fullstack con enfoque backend. Me encanta construir herramientas útiles, crear proyectos desafiantes y aprender constantemente sobre tecnologías web, seguridad y automatización.
+I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
 
----
+🌿 Trying to become a better person every day.
+</br>
+⌛ I enjoy personal development and productivity.
+</br>
+🫂 I enjoy working in teams and collaborating with other people.
+</br>
 
-## 🚀 Stack Tecnológico
+### Web Developer
+[![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+ <!-- <img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
+  
+  #### 🏆 GitHub Trophies
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=INGCapaDev&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
+  -->
 
-| Tecnología      | Área         |
-|----------------|--------------|
-| 🔥 Laravel      | Framework    |
-| 🐘 PHP 8        | Backend      |
-| 🐍 Python       | Backend      |
-| 🎨 Tailwind CSS | Frontend     |
-| ⚡ JavaScript   | Frontend     |
-| 🗄️ MySQL        | Base de datos|
-| 🐘 PostgreSQL   | Base de datos|
-| 💾 SQL Server   | Base de datos|
-| 🔌 API REST     | APIs         |
-| 🧪 PHPUnit      | Testing      |
-| 🏗️ POO          | Principios   |
-| 📐 MVC          | Arquitectura |
-| 💎 SOLID        | Principios   |
-| 📝 Git          | Control de versiones |
-| 🐧 Ubuntu       | Sistema operativo |
-| ☁️ AWS          | Cloud        |
-| 🔄 Scrum        | Metodología  |
+## Technologies:
 
----
+<div align="left">
+  <!-- Laravel Framework -->
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <!-- PHP 8 Backend -->
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <!-- Python Backend -->
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
+  <!-- Tailwind CSS Frontend -->
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <!-- JavaScript (ES6+) Frontend -->
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <!-- MySQL Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <!-- PostgreSQL Database -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <!-- Git Version Control -->
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <!-- Ubuntu OS -->
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <!-- AWS Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+</div>
 
-## 📊 GitHub Stats
+### Technologies & Skills:
+- 🔥 **Laravel** - Framework
+- 🐘 **PHP 8** - Backend
+- 🐍 **Python** - Backend  
+- 🎨 **Tailwind CSS** - Frontend
+- ⚡ **JavaScript (ES6+)** - Frontend
+- 🗄️ **MySQL** - Database
+- 🐘 **PostgreSQL** - Database
+- 💾 **SQL Server** - Database
+- 🔌 **API REST** - API
+- 🧪 **PHPUnit** - Testing
+- 🏗️ **POO** - Principles
+- 📐 **MVC** - Architecture
+- 💎 **SOLID** - Principles
+- 📝 **Git** - Version Control
+- 🐧 **Ubuntu** - OS
+- ☁️ **AWS** - Cloud
+- 🔄 **Scrum** - Methodology
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucianock&theme=dark&hide_border=true)](https://github.com/lucianock)
+## 📝 My Latest Blog
 
-[![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianock&show_icons=true&theme=radical)](https://github.com/lucianock)
+<li>
+  <a href="https://portfolio.lucianock.com/blog/como-tener-sitio-web-gratis-con-ec2.html">
+    📦 How to Have Your Own **Free** Website with EC2 (AWS) – Easy Guide for Devs in Spanish
+  </a>
+  <p>
+    📝 Learn step-by-step how to launch your portfolio or personal project on Amazon EC2 without paying for a VPS. Perfect for programmers who are starting out and want something real online without spending.
+  </p>
+</li>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianock&layout=compact&theme=radical)](https://github.com/lucianock)
+## Links:
+[![Website](https://img.shields.io/badge/Website-LUCIANOCK4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://lucianock.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@lucianock-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucianock/)
 
----
+## Contact:
 
-## 🌐 Conectá conmigo
-
-- 🔗 Sitio personal: [lucianock.com](https://lucianock.com)
-- 💼 LinkedIn: [linkedin.com/in/lucianock](https://linkedin.com/in/lucianock)
-- 📧 Email: lucianocampos.k@gmail.com
-
----
-
-> “El mejor momento para empezar fue ayer. El segundo mejor momento es ahora.” – Vos sabés.
-
+[![Email](https://img.shields.io/badge/lucainocampos.k@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucianocampos.k@gmail.com)
