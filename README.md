@@ -1,4 +1,4 @@
-# Welcome, I'm Luciano Campos Kriegl 👋
+# Welcome, I'm Luciano 👋
 
 ## About Me
 
