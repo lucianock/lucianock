@@ -11,13 +11,6 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 🫂 I enjoy working in teams and collaborating with other people.
 </br>
 
-### Web Developer
-
-
-<img src="https://streak-stats.demolab.com?user=lucianock&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467" />
-
-<img src="https://raw.githubusercontent.com/lucianock/lucianock/output/snake.svg" alt="Snake animation" />
-
 #### 🏆 GitHub Trophies
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=lucianock&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
 
