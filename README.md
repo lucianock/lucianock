@@ -12,8 +12,9 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 </br>
 
 ### Web Developer
-[![GitHub Streak](
-https://streak-stats.demolab.com?user=lucianock&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)
+
+
+<img src="https://streak-stats.demolab.com?user=lucianock&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467" />
 
 <img src="https://raw.githubusercontent.com/lucianock/lucianock/output/snake.svg" alt="Snake animation" />
 
