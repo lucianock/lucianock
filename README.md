@@ -45,7 +45,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
 </div>
 
-### Technologies & Skills:
+ <!--  ### Technologies & Skills:
 - 🔥 **Laravel** - Framework
 - 🐘 **PHP 8** - Backend
 - 🐍 **Python** - Backend  
@@ -62,7 +62,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 - 📝 **Git** - Version Control
 - 🐧 **Ubuntu** - OS
 - ☁️ **AWS** - Cloud
-- 🔄 **Scrum** - Methodology
+- 🔄 **Scrum** - Methodology -->
 
 ## 📝 My Latest Blog
 
