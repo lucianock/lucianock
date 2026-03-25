@@ -1,84 +1,31 @@
 # Welcome, I'm Luciano 👋
 
-## About Me
+## 👨‍💻 Sobre mí
 
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
+Soy un **Full Stack Developer** enfocado de lleno en la **Ciberseguridad Ofensiva y AppSec**. 
 
-🌿 Trying to become a better person every day.
-</br>
-⌛ I enjoy personal development and productivity.
-</br>
-🫂 I enjoy working in teams and collaborating with other people.
-</br>
+Viniendo del desarrollo en la trinchera (PHP, Laravel, JS) y la administración de servidores, mi filosofía es directa: **para saber cómo romper y asegurar un sistema, primero tenés que saber cómo construirlo y administrarlo.**
 
-## Technologies:
+Actualmente me dedico a auditar infraestructura y aplicaciones corporativas, identificando fallos lógicos en el código, configuraciones inseguras y vectores de escalada de privilegios en entornos Linux.
+
+🎯 **Foco actual:** Preparando la certificación **eJPTv2**, cursando en Hack4u y destripando máquinas de laboratorio.
+🛠️ **Mindset:** Análisis de causa raíz (Root Cause), *Secure Code Review* y automatización de herramientas con Bash/Python.
+
+## 💻 Tecnologías y Herramientas:
 
 <div align="left">
-  <!-- Laravel Framework -->
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,python" height="40" alt="os and scripting logos" />
   <img width="12" />
-  <!-- PHP 8 Backend -->
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <!-- Python Backend -->
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <!-- Tailwind CSS Frontend -->
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <!-- JavaScript (ES6+) Frontend -->
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <!-- MySQL Database -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <!-- PostgreSQL Database -->
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <!-- Git Version Control -->
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <!-- Ubuntu OS -->
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <!-- AWS Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,postgres,aws" height="40" alt="dev and cloud logos" />
 </div>
 
- <!--  ### Technologies & Skills:
-- 🔥 **Laravel** - Framework
-- 🐘 **PHP 8** - Backend
-- 🐍 **Python** - Backend  
-- 🎨 **Tailwind CSS** - Frontend
-- ⚡ **JavaScript (ES6+)** - Frontend
-- 🗄️ **MySQL** - Database
-- 🐘 **PostgreSQL** - Database
-- 💾 **SQL Server** - Database
-- 🔌 **API REST** - API
-- 🧪 **PHPUnit** - Testing
-- 🏗️ **POO** - Principles
-- 📐 **MVC** - Architecture
-- 💎 **SOLID** - Principles
-- 📝 **Git** - Version Control
-- 🐧 **Ubuntu** - OS
-- ☁️ **AWS** - Cloud
-- 🔄 **Scrum** - Methodology -->
+## 📝 Documentación y Writeups
 
-## 📝 My Latest Blog
+* 🎯 **[eJPTv2 Prep]** *Writeups de vulnerabilidades, RCE y escalada de privilegios en laboratorios controlados (Próximamente).*
+* 📦 **[DevOps]** <a href="https://portfolio.lucianock.com/blog/como-tener-sitio-web-gratis-con-ec2.html">Cómo tener tu sitio web GRATIS con EC2 (AWS) – Guía para Devs</a>
 
-<li>
-  <a href="https://portfolio.lucianock.com/blog/como-tener-sitio-web-gratis-con-ec2.html">
-    📦 How to Have Your Own **Free** Website with EC2 (AWS) – Easy Guide for Devs in Spanish
-  </a>
-  <p>
-    📝 Learn step-by-step how to launch your portfolio or personal project on Amazon EC2 without paying for a VPS. Perfect for programmers who are starting out and want something real online without spending.
-  </p>
-</li>
+## 🔗 Links y Contacto:
 
-## Links:
 [![Website](https://img.shields.io/badge/Website-LUCIANOCK4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://lucianock.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@lucianock-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucianock/)
-
-## Contact:
-
-[![Email](https://img.shields.io/badge/lucainocampos.k@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucianocampos.k@gmail.com)
+[![Email](https://img.shields.io/badge/lucianocampos.k@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucianocampos.k@gmail.com)
