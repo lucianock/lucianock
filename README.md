@@ -25,6 +25,6 @@ Actualmente me dedico a auditar infraestructura y aplicaciones corporativas, ide
 
 ## 🔗 Links y Contacto:
 
-[![Website](https://img.shields.io/badge/Website-LUCIANOCK4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://lucianock.com)
+[![Website](https://img.shields.io/badge/Website-LUCIANOCK4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://lucianodev.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@lucianock-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucianock/)
 [![Email](https://img.shields.io/badge/lucianocampos.k@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucianocampos.k@gmail.com)
