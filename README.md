@@ -21,8 +21,7 @@ Actualmente me dedico a auditar infraestructura y aplicaciones corporativas, ide
 
 ## 📝 Documentación y Writeups
 
-* 🎯 **[eJPTv2 Prep]** *Writeups de vulnerabilidades, RCE y escalada de privilegios en laboratorios controlados (Próximamente).*
-* 📦 **[DevOps]** <a href="https://portfolio.lucianock.com/blog/como-tener-sitio-web-gratis-con-ec2.html">Cómo tener tu sitio web GRATIS con EC2 (AWS) – Guía para Devs</a>
+* 🎯 **[eJPTv2 Prep]** *Writeups (Próximamente).*
 
 ## 🔗 Links y Contacto:
 
