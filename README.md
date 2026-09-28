@@ -4,6 +4,8 @@
 
 <a href="https://github.com/lucianock"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer;Pentester+%26+Ethical+Hacker;SOC+%2F+Blue+Team+Defender;Construyo+la+web...+y+despu%C3%A9s+la+rompo+%3E%3A)" alt="Typing SVG" /></a>
 
+<a href="https://github.com/lucianock/lucianock/blob/main/README.en.md"><img src="https://img.shields.io/badge/Read%20in-English%20%F0%9F%87%BA%F0%9F%87%B8-00ff9f?style=flat-square&labelColor=101010" alt="English" /></a>
+
 </div>
 
 ```text
@@ -59,6 +61,17 @@
 - 🧪 Rompiendo máquinas en laboratorios y CTFs
 - 🛡️ Sumando experiencia en **SOC** y detección
 - 🌐 Construyendo proyectos web, siempre con la seguridad como prioridad
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianock&theme=github_dark" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucianock&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=lucianock&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&locale=es" alt="GitHub streak" />
+</p>
 
 ## 📡 Contacto
 
