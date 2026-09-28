@@ -1,30 +1,77 @@
-# Welcome, I'm Luciano 👋
+<div align="center">
 
-## 👨‍💻 Sobre mí
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00ff9f&height=220&section=header&text=Luciano%20Campos%20Kriegl&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Build%20%E2%80%A2%20Break%20%E2%80%A2%20Defend&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-Soy un **Full Stack Developer** enfocado de lleno en la **Ciberseguridad Ofensiva y AppSec**. 
+<a href="https://github.com/lucianock"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer;Pentester+%26+Ethical+Hacker;SOC+%2F+Blue+Team+Defender;Construyo+la+web...+y+despu%C3%A9s+la+rompo+%3E%3A)" alt="Typing SVG" /></a>
 
-Viniendo del desarrollo en la trinchera (PHP, Laravel, JS) y la administración de servidores, mi filosofía es directa: **para saber cómo romper y asegurar un sistema, primero tenés que saber cómo construirlo y administrarlo.**
-
-Actualmente me dedico a auditar infraestructura y aplicaciones corporativas, identificando fallos lógicos en el código, configuraciones inseguras y vectores de escalada de privilegios en entornos Linux.
-
-🎯 **Foco actual:** Preparando la certificación **eJPTv2**, cursando en Hack4u y destripando máquinas de laboratorio.
-🛠️ **Mindset:** Análisis de causa raíz (Root Cause), *Secure Code Review* y automatización de herramientas con Bash/Python.
-
-## 💻 Tecnologías y Herramientas:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,python" height="40" alt="os and scripting logos" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,postgres,aws" height="40" alt="dev and cloud logos" />
 </div>
 
-## 📝 Documentación y Writeups
+```text
+┌──(luciano㉿rosario)-[~]
+└─$ cat about_me.txt
 
-* 🎯 **[eJPTv2 Prep]** *Writeups (Próximamente).*
+  rol      →  Full Stack Developer  ×  Cybersecurity
+  build    →  Aplicaciones web de punta a punta: front, back, APIs, datos y deploy
+  break    →  Pentesting y hacking ético sobre webs e infraestructura
+  defend   →  SOC: monitoreo, detección y respuesta a incidentes
+  stack    →  El que el proyecto necesite. Las tecnologías cambian, los fundamentos no.
+  mindset  →  "Para asegurar un sistema, primero hay que saber construirlo."
+```
 
-## 🔗 Links y Contacto:
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🏗️ Build</h3>
+      <p align="center">Desarrollo web completo, del diseño al servidor. Código limpio, escalable y pensado seguro desde el día uno.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚔️ Break</h3>
+      <p align="center">Pentesting y Red Team mindset. Encontrar el fallo antes que otro lo haga.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🛡️ Defend</h3>
+      <p align="center">Operaciones SOC y Blue Team. Ver, detectar y responder.</p>
+    </td>
+  </tr>
+</table>
 
-[![Website](https://img.shields.io/badge/Website-LUCIANOCK4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://lucianodev.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@lucianock-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucianock/)
-[![Email](https://img.shields.io/badge/lucianocampos.k@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucianocampos.k@gmail.com)
+## 🧰 Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,laravel,python,mysql,postgres,mongodb,docker,git,linux,bash,aws&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Wazuh-3595F9?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010" />
+</p>
+
+## 🚀 En qué ando
+
+- 🔐 Profundizando en **pentesting** y certificaciones ofensivas
+- 🧪 Rompiendo máquinas en laboratorios y CTFs
+- 🛡️ Sumando experiencia en **SOC** y detección
+- 🌐 Construyendo proyectos web, siempre con la seguridad como prioridad
+
+## 📡 Contacto
+
+<p align="center">
+  <a href="https://lucianodev.site"><img src="https://img.shields.io/badge/Website-00FF9F?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=101010" /></a>
+  <a href="https://www.linkedin.com/in/lucianock/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" /></a>
+  <a href="mailto:lucianocampos.k@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" /></a>
+</p>
+
+<div align="center">
+
+<i>"Si lo podés construir, lo podés romper. Si lo podés romper, lo podés proteger."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:0f3d2e,100:0d1117&height=120&section=footer" width="100%" />
+
+</div>
