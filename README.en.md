@@ -40,7 +40,7 @@
 ## 🧰 Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,laravel,python,mysql,postgres,mongodb,docker,git,linux,bash,aws&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,laravel,python,mysql,postgres,mongodb,docker,git,linux,bash&perline=9" />
 </p>
 
 <p align="center">
@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=101010" />
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=101010" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white&labelColor=101010" />
   <img src="https://img.shields.io/badge/Wazuh-3595F9?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=101010" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010" />
   <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=101010" />
@@ -57,10 +56,10 @@
 
 ## 🚀 Currently
 
-- 🔐 Going deeper into **pentesting** and offensive certifications
-- 🧪 Breaking machines in labs and CTFs
-- 🛡️ Building experience in **SOC** and threat detection
-- 🌐 Shipping web projects, always with security first
+- 🔐 **AppSec & web pentesting**: security reviews and testing on real-world applications
+- 🛡️ **Blue team**: detection and response with Wazuh (SIEM), Linux server hardening
+- ⚙️ **CI/CD security**: static analysis with Semgrep and AI-assisted code review on every pull request
+- 🛰️ **[recon-pasivo](https://github.com/lucianock/recon-pasivo)**: passive external-exposure recon with an HTML report
 
 ## 📊 GitHub Stats
 
